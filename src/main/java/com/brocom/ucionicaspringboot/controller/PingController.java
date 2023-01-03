@@ -10,6 +10,6 @@ public class PingController {
 
     @GetMapping("/")
     public String health() {
-        return "Radi i GITHUB!!";
+        return "Works!!";
     }
 }
